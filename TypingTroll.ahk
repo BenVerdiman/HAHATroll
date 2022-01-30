@@ -130,6 +130,5 @@ send z
 send haha{Space}
 send ^{Left}
 return
-^+!Ins::
-exitapp
+
 
