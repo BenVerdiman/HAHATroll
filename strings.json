@@ -1,3 +1,11 @@
-{
-  "key1": "Main Template"
-}
+[{
+        "string": "Main Template",
+        "cities": "Soanindrariny",
+        "animals": "Common boubou shrike"
+    },
+    {
+        "string": "String Length",
+        "cities": "Luthu",
+        "animals": "Eastern diamondback rattlesnake"
+    }
+]
