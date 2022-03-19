@@ -1,11 +1,11 @@
 [{
-        "firstname": "Main Template",
-        "cities": "Soanindrariny",
-        "animals": "Common boubou shrike"
+        "name": "Main Template",
+        "code": "#include <iostream>\n\nusing namespace std;\n\nint main(){\n\n    cout << endl;\n    return 0;\n}\n\n"
+        
     },
     {
-        "firstname": "String Length",
-        "cities": "Luthu",
-        "animals": "Eastern diamondback rattlesnake"
+        "name": "String Length",
+        "code": "strlen();"
+        
     }
 ]
