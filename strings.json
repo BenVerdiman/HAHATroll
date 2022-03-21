@@ -1,11 +1,3 @@
-[{
-        "name": "Main Template",
-        "code": "#include <iostream>\n\nusing namespace std;\n\nint main(){\n\n    cout << endl;\n    return 0;\n}\n\n"
-        
-    },
-    {
-        "name": "String Length",
-        "code": "strlen();"
-        
-    }
-]
+{
+  "l1_code": "#include <cstring>"
+}
